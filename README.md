@@ -129,3 +129,29 @@ Username.github.io
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
+
+## FAQ
+
+#### Why is Markdown better than a word processor?
+
+Microsoft word is a wonderful choice for creating resumes and a horrible choice for updating resumes. Since you are constantly learning and experiencing, your resume also needs to be updated constantly.
+
+If you have your resume in word or PDF, and you want to update it, you will have to contact that person and notify them that you have updated something and send your resume again.  
+
+Hosting your resume on a website gives you the power to fix inaccuracies almost instantly and keep your resume in sync with the latest updates.
+
+#### Why is my resume not showing up after hosting it on github pages.
+
+Check the following things in your repository.
+-  Name of the repository is: 
+```
+Username.github.io
+```
+- Check the file named:
+```
+index.md
+```
+- Make sure the front-matter is correct and your resume content is below the front matter.
+ 
+
+
