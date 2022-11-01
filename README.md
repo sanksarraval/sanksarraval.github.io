@@ -26,9 +26,9 @@ Hosting a resume on GitHub Pages requires the following:
 You can read the [More Resources](#more-resources) for more information on Jekyll Installation Guide depending on your operating system.
 
 ## Instructions
-#### 1) Make sure you have the prerequisites.
+### 1) Make sure you have the prerequisites.
 
-#### 2) Create your resume in Markdown.
+### 2) Create your resume in Markdown.
 
 Open your Markdown editor and start typing your resume.
 
@@ -42,7 +42,7 @@ The entire point of lightweight markup is to have human-readable code that every
 He also adds that using Markdown also makes it easier for the users to contribute to the project.
 For example, if you have a project which is modified by people with different skillsets(technical/non-technical). A lightweight, human-readable markup language makes it easier to make a purposeful contribution.
 
-#### 3) Create a static website with Jekyll
+### 3) Create a static website with Jekyll
 Jekyll is a static site generator which takes content and a theme, and it processes everything into a working website. User can easily modify the website by updating the content and processing the site again.
 
 Once you have a Markdown-formatted resume and Jekyll(ruby) installed on your computer.
@@ -68,25 +68,63 @@ Go to localhost:4000 to access the website and play around with it.
 
 Static websites don't require a lot of resources, you can host a static website practically anywhere. They have no server-side application dependencies and no databases, hence the size of the static website is very small. Hence, Andrew Etter recommends to generate a static site. 
 
-#### 4) Pick a theme for the website
+### 4) Pick a theme for the website
+
 Once you have your locally hosted website ready, you can change how it looks by using different [themes](https://jekyllrb.com/docs/themes/).
 
 Jekyll offers a robust theme system that enables you to use community-maintained templates and styles to customize the appearance of your site.
 
 The resume was created using [jekyll-theme-hacker](https://github.com/pages-themes/hacker) which I found on [rubygems.org.](https://rubygems.org/gems/jekyll-theme-hacker) To apply the theme to your website, simply follow the instructions mentioned in the GitHub repository.
 
-For more information about applying themes to your website you can go to Mike Dane's [tutorial](https://www.youtube.com/watch?v=NoRS2D-cyko&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=11&t=247s).
-#### 5) Update your website with your resume
-#### 6) Create a github repository for your website
-#### 7) Upload your files to the repository
+For more information about applying themes to your website you can go to Mike Dane's tutorial found in [More Resources](#more-resources).
+
+### 5) Update your website with your resume
+Once you have a static website which is locally hosted with a theme, now is the time to add/upload your resume onto the static website.
+
+To do that, go the folder you created in step 3 and update the file titled:
+```
+index.md
+```
+Copy and paste your resume below the top content (known as ["front-matter"](https://jekyllrb.com/docs/front-matter/)) which is set between with 3 dashes. Save and close. 
 
 
-## Authors and Acknowledgements
+### 6) Create a github repository for your website
 
-//To be filled after peer review
+[GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) is a static site hosting service that produces a website by taking HTML, CSS, and JavaScript files directly from a repository on GitHub, optionally running the contents through a build process.
+
+In order to host a website to GitHub pages, create a repository on your GitHub homepage named :
+```
+Username.github.io
+```
+GitHub uses Git which is a Distributed Version Control System (DVCS), which makes it possible to keep track of who made changes and when. This fits the prior point about collaboration made by Andrew Ette.  Additionally, using a DVCS for the storing  things like a project's ReadMe ensures that the file can be updated simultaneously with the code. 
+
+
+
+### 7) Upload your files to the repository
+The GitHub repository created in the previous step is empty, so to populate the repository with your static website:
+- Go to your GitHub repository.
+- Click on the green **code** button, which opens a drop down menu to clone the repository to your local computer.
+- Add all the files from the folder you created in step 3 to the cloned repository.
+- Make sure to commit your changes with the green commit button.
+
+### 8) Celebrate for hosting your website successfully.
+You should now be able to view your resume at: 
+```
+Username.github.io
+```
+
+
+
 ## More Resources
 
 - A great [Markdown tutorial.](https://www.markdowntutorial.com/)
 - A great [Jekyll Installation Guide](https://jekyllrb.com/docs/installation/#guides) depending on your operating system.
-- An overview of the basic syntax of Markdown can be [found here](https://www.markdownguide.org/basic-syntax/)
+- Mike Dane's [tutorial](https://www.youtube.com/watch?v=NoRS2D-cyko&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=11&t=247s) about applying themes to Jekyll websites.
 - *Modern Technical Writing*, by Andrew Etter, can be purchased from [Amazon](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
