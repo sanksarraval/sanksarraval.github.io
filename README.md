@@ -71,11 +71,11 @@ Static websites don't require a lot of resources, you can host a static website 
 
 ### 4) Pick a theme for the website
 
-Once you have your locally hosted website ready, you can change how it looks by using different [themes](https://jekyllrb.com/docs/themes/).
+Once you have your locally hosted website ready, you can change how it looks by using different themes found in [More Resources](#more-resources).
 
 Jekyll offers a robust theme system that enables you to use community-maintained templates and styles to customize the appearance of your site.
 
-The resume was created using [jekyll-theme-hacker](https://github.com/pages-themes/hacker) which I found on [rubygems.org.](https://rubygems.org/gems/jekyll-theme-hacker) To apply the theme to your website, simply follow the instructions mentioned in the GitHub repository.
+The resume was created using [jekyll-theme-hacker](#more-resoruces) which I found on [rubygems.org.](#more-resoruces) To apply the theme to your website, simply follow the instructions mentioned in the GitHub repository.
 
 For more information about applying themes to your website you can go to Mike Dane's tutorial found in [More Resources](#more-resources).
 
@@ -91,7 +91,7 @@ Copy and paste your resume below the top content (known as ["front-matter"](http
 
 ### 6) Create a github repository for your website
 
-[GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) is a static site hosting service that produces a website by taking HTML, CSS, and JavaScript files directly from a repository on GitHub, optionally running the contents through a build process.
+[GitHub Pages](#more-resources) is a static site hosting service that produces a website by taking HTML, CSS, and JavaScript files directly from a repository on GitHub, optionally running the contents through a build process.
 
 In order to host a website to GitHub pages, create a repository on your GitHub homepage named :
 ```
@@ -120,9 +120,12 @@ Username.github.io
 
 - A great [Markdown tutorial.](https://www.markdowntutorial.com/)
 - A great [Jekyll Installation Guide](https://jekyllrb.com/docs/installation/#guides) depending on your operating system.
+- Different [themes](https://jekyllrb.com/docs/themes/) for Jekyll.
+- [Jekyll-Theme-Hacker](https://github.com/pages-themes/hacker)
+- [rubygems.org](https://rubygems.org/gems/jekyll-theme-hacker)
+- [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 - Mike Dane's [tutorial](https://www.youtube.com/watch?v=NoRS2D-cyko&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=11&t=247s) about applying themes to Jekyll websites.
 - *Modern Technical Writing*, by Andrew Etter, can be purchased from [Amazon](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
-
 
 ## Acknowledgements
 
