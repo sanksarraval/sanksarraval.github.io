@@ -15,7 +15,7 @@ After finishing this tutorial, you should be able to:
 - Use jekyll to generate and edit a static website on your local computer.
 - Use GitHub and Github Pages to host your resume online.
 
-As you read through the instructions, you will see how practical steps align with the general principles of current technical writing, as explained in Andrew Etter's book **[Mordern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)** 
+As you read through the instructions, you will see how practical steps align with the general principles of current technical writing, as explained in Andrew Etter's book *Mordern Technical Writing* found in [More Resources](#more-resources).
 
 ## Prerequisites
 Hosting a resume on GitHub Pages requires the following:
