@@ -27,6 +27,7 @@ You can read the [More Resources](#more-resources) for more information on Jekyl
 
 ## Instructions
 ### 1) Make sure you have the prerequisites.
+Make sure that you have Jekyll(ruby) installed on your computer, and a GitHub account.
 
 ### 2) Create your resume in Markdown.
 
