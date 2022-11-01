@@ -123,11 +123,11 @@ Username.github.io
 - Mike Dane's [tutorial](https://www.youtube.com/watch?v=NoRS2D-cyko&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=11&t=247s) about applying themes to Jekyll websites.
 - *Modern Technical Writing*, by Andrew Etter, can be purchased from [Amazon](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
+
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- I would like to acknowledge the creators of the [Jekyll-Hacker-Theme](https://github.com/pages-themes/hacker) for creating an awesome remote theme for Jekyll.
+- I would like to thank my group members: Ben, Zil and Aakash for proof reading and peer reviewing the ReadMe.
 
 
 ## FAQ
