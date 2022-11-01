@@ -23,7 +23,7 @@ Hosting a resume on GitHub Pages requires the following:
 - A Markdown editor, this README was written using [readme.so](https://readme.so/editor)
 - A [GitHub](https://github.com/) account.
 
-You can read the [Jekyll Installation Guide](https://jekyllrb.com/docs/installation/#guides) for more information depending on your operating system.
+You can read the [More Resources](#more-resources) for more information on Jekyll Installation Guide depending on your operating system.
 
 ## Instructions
 #### 1) Make sure you have the prerequisites.
@@ -69,16 +69,24 @@ Go to localhost:4000 to access the website and play around with it.
 Static websites don't require a lot of resources, you can host a static website practically anywhere. They have no server-side application dependencies and no databases, hence the size of the static website is very small. Hence, Andrew Etter recommends to generate a static site. 
 
 #### 4) Pick a theme for the website
+Once you have your locally hosted website ready, you can change how it looks by using different [themes](https://jekyllrb.com/docs/themes/).
+
+Jekyll offers a robust theme system that enables you to use community-maintained templates and styles to customize the appearance of your site.
+
+The resume was created using [jekyll-theme-hacker](https://github.com/pages-themes/hacker) which I found on [rubygems.org.](https://rubygems.org/gems/jekyll-theme-hacker) To apply the theme to your website, simply follow the instructions mentioned in the GitHub repository.
+
+For more information about applying themes to your website you can go to Mike Dane's [tutorial](https://www.youtube.com/watch?v=NoRS2D-cyko&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=11&t=247s).
 #### 5) Update your website with your resume
 #### 6) Create a github repository for your website
 #### 7) Upload your files to the repository
 
-## More Resources
-
-- A great Markdown tutorial can be [found here](https://www.markdowntutorial.com/)
-- An overview of the basic syntax of Markdown can be [found here](https://www.markdownguide.org/basic-syntax/)
-- *Modern Technical Writing*, by Andrew Etter, can be purchased from [Amazon](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 ## Authors and Acknowledgements
 
 //To be filled after peer review
+## More Resources
+
+- A great [Markdown tutorial.](https://www.markdowntutorial.com/)
+- A great [Jekyll Installation Guide](https://jekyllrb.com/docs/installation/#guides) depending on your operating system.
+- An overview of the basic syntax of Markdown can be [found here](https://www.markdownguide.org/basic-syntax/)
+- *Modern Technical Writing*, by Andrew Etter, can be purchased from [Amazon](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
