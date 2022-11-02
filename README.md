@@ -75,7 +75,7 @@ Once you have your locally hosted website ready, you can change how it looks by 
 
 Jekyll offers a robust theme system that enables you to use community-maintained templates and styles to customize the appearance of your site.
 
-The resume was created using [jekyll-theme-hacker](#more-resoruces) which I found on [rubygems.org.](#more-resoruces) To apply the theme to your website, simply follow the instructions mentioned in the GitHub repository.
+The resume was created using [jekyll-theme-hacker](#more-resources) which I found on [rubygems.org.](#more-resources) To apply the theme to your website, simply follow the instructions mentioned in the GitHub repository.
 
 For more information about applying themes to your website you can go to Mike Dane's tutorial found in [More Resources](#more-resources).
 
