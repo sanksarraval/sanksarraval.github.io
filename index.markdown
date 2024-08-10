@@ -19,8 +19,54 @@ layout: default
 [Linkedin](https://www.linkedin.com/in/sanskar-raval)
 
   
+## <center>Experience</center>
+
+**Junior Web and Application Developer | Government of Manitoba (September 2023 - Present) **  
+	- Spearheading the ongoing development of Fine-cards, a dynamic .NET web application, utilizing HTML, CSS, JavaScript, and Bootstrap for the front-end.
+ 	- Implementing the Model-View-Controller (MVC) architecture to ensure a scalable and maintainable codebase. Leveraging APIs for seamless communication between the front-end and back-end, optimizing data flow and application responsiveness.
+  	- Contributing to the creation of a robust CRUD (Create, Read, Update, Delete) application for efficient offender management.
+   	- Developing a robust user authentication and authorization features, enhancing the application’s security framework.
+   
+
+**University of Manitoba (May 2022 - August 2022)**
 
   
+
+-  **Research Assistant, Department of Computer Science**
+
+  
+
+	- Had an opportunity to research Dr. Carson Leung in his Database and Datamining Lab.
+
+  
+
+	- Worked on multiple projects, including data prepping and building efficient and effective solutions for finding frequent patterns in a large database.
+
+  
+
+	- Worked in a group of three with regular communication with the professor.
+
+  
+
+  
+
+**Walmart Canada**
+
+  
+
+-  **Cashier**
+
+  
+
+	- Worked in a fast pace environment to assist customers with their transactions at the self-checkout.
+
+  
+
+	- Worked at the customer service desk to help customers with their refunds and exchanges.
+
+  
+
+	- Elicited positive responses and reviews from customers.
 
 ## <center>Education </center>
 
@@ -34,7 +80,7 @@ layout: default
 
   
 
-- Expected graduation: December 2024, GPA: 3.7
+- Expected graduation: April 2025, GPA: 3.7
 
   
 
@@ -125,51 +171,3 @@ layout: default
   
 
 	- Learned a lot about pointer manipulation in C and life in general.
-
-  
-
-  
-
-## <center> Work Experience</center>
-
-  
-
-**University of Manitoba (May 2022 - August 2022)**
-
-  
-
--  **Research Assistant, Department of Computer Science**
-
-  
-
-	- Had an opportunity to research Dr. Carson Leung in his Database and Datamining Lab.
-
-  
-
-	- Worked on multiple projects, including data prepping and building efficient and effective solutions for finding frequent patterns in a large database.
-
-  
-
-	- Worked in a group of three with regular communication with the professor.
-
-  
-
-  
-
-**Walmart Canada**
-
-  
-
--  **Cashier**
-
-  
-
-	- Worked in a fast pace environment to assist customers with their transactions at the self-checkout.
-
-  
-
-	- Worked at the customer service desk to help customers with their refunds and exchanges.
-
-  
-
-	- Elicited positive responses and reviews from customers.
