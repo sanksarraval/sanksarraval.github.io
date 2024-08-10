@@ -10,7 +10,7 @@ layout: default
 
 ## <center>Experience</center>
 
-**Junior Web and Application Developer | Government of Manitoba (September 2023 - Present)**  
+### Junior Web and Application Developer | Government of Manitoba (September 2023 - Present) 
 
   - Spearheading the ongoing development of Fine-cards, a dynamic .NET web application, utilizing HTML, CSS, JavaScript, and Bootstrap for the front-end.
   - Implementing the Model-View-Controller (MVC) architecture to ensure a scalable and maintainable codebase. Leveraging APIs for seamless communication between the front-end and back-end, optimizing data flow and application responsiveness.
@@ -18,13 +18,13 @@ layout: default
   - Developing a robust user authentication and authorization features, enhancing the application’s security framework.
    
 
-**Research Assistant, Department of Computer Science | University of Manitoba (May 2022 - August 2022)**
+### Research Assistant, Department of Computer Science | University of Manitoba (May 2022 - August 2022)
 
   - Had an opportunity to research Dr. Carson Leung in his Database and Datamining Lab.
   - Worked on multiple projects, including data prepping and building efficient and effective solutions for finding frequent patterns in a large database.
   - Worked in a group of three with regular communication with the professor.
 
-**Cashier | Walmart Canada (May 2020 - Present)**
+### Cashier | Walmart Canada (May 2020 - Present)**
 
   - Worked in a fast pace environment to assist customers with their transactions at the self-checkout.
   - Worked at the customer service desk to help customers with their refunds and exchanges.
@@ -69,7 +69,9 @@ layout: default
 	- The project is based on the idea that a population requires a certain size to thrive, and can expand if they are large enough, but cannot become so dense that they overtax its local resources.
 - MusicLoud: Music Management System (Java, Android Studios, HyperSQL)
 
-	- Developed a music management system with intuitive playlist creation, smart sorting options, and customizable themes, leading to increased user engagement by 50%
+	- Developed a music management system with intuitive playlist creation, smart sorting options, and customizable themes, leading to increased user engagement by 50%.
+
    
- - Music Amor (Vue, HTML, and JavaScript )
+
+- Music Amor (Vue, HTML, and JavaScript )
    	- Developed a music streaming website using Vue.js, HTML, and JavaScript as a team project. The app allows users to search and listen to their favorite songs, create, and manage playlists.
