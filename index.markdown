@@ -6,7 +6,7 @@ layout: default
 ---
 # <center>Sanskar Raval </center>
 
-<ravals1@myumanitoba.ca>| [GitHub](https://github.com/sanksarraval) | [Linkedin](https://www.linkedin.com/in/sanskar-raval)
+### <center><ravals1@myumanitoba.ca>| [GitHub](https://github.com/sanksarraval) | [Linkedin](https://www.linkedin.com/in/sanskar-raval)</center>
 
 ## <center>Experience</center>
 
@@ -51,6 +51,7 @@ layout: default
 - ICM Honour list (Fall 2020)
 - Dean's Honour list (Winter 2022)
 -  **UMSU Undergraduate Research Award (URA)** (**Summer 2022**
+<br/><br/>
 -  _Student Member, CSSA_
 -  _Student Member, Dev Club_
 
