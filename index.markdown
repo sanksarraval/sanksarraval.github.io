@@ -6,7 +6,7 @@ layout: default
 ---
 <!--# **<center>Sanskar Raval </center>**-->
 
-###  [ravals1@myumanitoba.ca](mailto:ravals1@myumanitoba.ca)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/sanksarraval) |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/sanskar-raval) 
+###  [ravals1@myumanitoba.ca](mailto:ravals1@myumanitoba.ca)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/sanksarraval) |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/sanskar-raval) 
 
 # **<center>Experience</center>**
 
