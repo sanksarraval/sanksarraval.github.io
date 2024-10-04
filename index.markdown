@@ -55,10 +55,10 @@ layout: default
 
 # **<center> Publications </center>**
 
-- [Transportation Analytic Solution for Predicting Flight Cancellations](https://ieeexplore.ieee.org/document/10229353) | U of M | Aug 2023
+- [Transportation Analytic Solution for Predicting Flight Cancellations](https://ieeexplore.ieee.org/document/10229353) |  University of Manitoba | Aug 2023
   - Built predictive models using regression analysis to determine the likelihood of flight cancellations based on weather data, including precipitation and wind speed.
  
-- [Social Network Analysis of Popular YouTube Videos via Vertical Quantitative Mining](https://ieeexplore.ieee.org/document/10068640) |  U of M | Nov 2022
+- [Social Network Analysis of Popular YouTube Videos via Vertical Quantitative Mining](https://ieeexplore.ieee.org/document/10068640) |  University of Manitoba | Nov 2022
   - Enhanced algorithms for social network analysis, providing insights into patterns behind YouTube video popularity using quantitative mining techniques.
 
 # **<center>Projects</center>**
