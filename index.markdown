@@ -6,7 +6,7 @@ layout: default
 ---
 # <center>**Sanskar Raval** </center>
 
-### <center> [ravals1@myumanitoba.ca](mailto:ravals1@myumanitoba.ca)| [GitHub](https://github.com/sanksarraval) | [Linkedin](https://www.linkedin.com/in/sanskar-raval) </center>
+###  [ravals1@myumanitoba.ca](mailto:ravals1@myumanitoba.ca)| [GitHub](https://github.com/sanksarraval) | [Linkedin](https://www.linkedin.com/in/sanskar-raval) 
 
 ## <center>**Experience**</center>
 
@@ -87,7 +87,7 @@ layout: default
 	- The project is based on the idea that a population requires a certain size to thrive, and can expand if they are large enough, but cannot become so dense that they overtax its local resources.
 
 
- ## <center>Awards and Memberships</center>
+## <center>Awards and Memberships</center>
 
 - ICM Honour list (Fall 2020)
 - Dean's Honour list (Winter 2022)
