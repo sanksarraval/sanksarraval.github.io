@@ -64,20 +64,24 @@ layout: default
 ## **<center>Projects</center>**
 
 - Discordn’t: Stateful Chat Server & Client Application (Python, TCP, SQLite)| Sep 2024
+  
 	-  Built a server capable of maintaining chat state across restarts, with custom protocols for thin clients and optimized message throughput.
+   
  	-  Built a lightweight client that communicates with the server without storing any state, ensuring efficient performance and scalability.
 
 - BookStore Web App:(C#, ASP.NET Core MVC, and MSSQL )| Jan 2024
+  
 	- Developed a web app for managing bookstore operations, including inventory management and user interfaces. Focused on creating a user-friendly experience while ensuring the system was scalable and maintainable.
 	- Implemented role-based access control to secure user permissions, ensuring admin and customer-level features were appropriately restricted, boosting security by 25%.
 
 - [MusicLoud: Music Management System (Java, Android Studios, HyperSQL)](https://github.com/sanksarraval/MusicLoud)| Jan 2023
 
 	- Created a music management system with intuitive playlist creation and smart sorting options, simplifying the user experience and increasing engagement by 50%.
+  
  	- Implemented customizable themes, resulting in a 30% reduction in time spent managing music collections and enhancing user satisfaction.
 
 - Music Amor (Vue, HTML, and JavaScript )| Sep 2022
-
+  
 	- Developed a music streaming website as part of a team project using Vue.js for front-end, allowing users to search and stream songs, manage playlists, and personalize their experience.
    
  	- Implemented features such as user authentication, accessibility options (e.g., high contrast mode), and playlist management to enhance usability.
