@@ -79,7 +79,9 @@ layout: default
 - Music Amor (Vue, HTML, and JavaScript )| Sep 2022
 
 	- Developed a music streaming website as part of a team project using Vue.js for front-end, allowing users to search and stream songs, manage playlists, and personalize their experience.
+   
  	- Implemented features such as user authentication, accessibility options (e.g., high contrast mode), and playlist management to enhance usability.
+    
   	- Integrating REST APIs to ensure seamless interaction with backend services and improving data accessibility. Enhanced user experience through intuitive design and functionality.
  
 <!--
