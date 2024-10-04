@@ -32,7 +32,7 @@ layout: default
   - Worked at the customer service desk to help customers with their refunds and exchanges.
   - Elicited positive responses and reviews from customers.
 
-## <center>Education </center>
+## **<center>Education </center>**
 
   
 
@@ -53,7 +53,7 @@ layout: default
 -  **Data Science Tools**: Pandas, NumPy, scikit-learn, Jupyter, Matplotlib, Regression, Decision Trees, Clustering, SQL (MySQL, PostgreSQL), MSSQL, Neo4J. 
 
 
-## <center> Publications </center>
+## **<center> Publications </center>**
 
 - [Transportation Analytic Solution for Predicting Flight Cancellations](https://ieeexplore.ieee.org/document/10229353) | University of Manitoba | Aug 2023
   	- Built predictive models using regression analysis to determine the likelihood of flight cancellations based on weather data, including precipitation and wind speed.
@@ -61,7 +61,7 @@ layout: default
 - [Social Network Analysis of Popular YouTube Videos via Vertical Quantitative Mining](https://ieeexplore.ieee.org/document/10068640) | University of Manitoba | Nov 2022
  	- Enhanced algorithms for social network analysis, providing insights into patterns behind YouTube video popularity using quantitative mining techniques.
 
-## <center>Projects</center>
+## **<center>Projects</center>**
 
 - Discordn’t: Stateful Chat Server & Client Application (Python, TCP, SQLite)| Sep 2024
 	-  Built a server capable of maintaining chat state across restarts, with custom protocols for thin clients and optimized message throughput.
@@ -77,18 +77,20 @@ layout: default
  	- Implemented customizable themes, resulting in a 30% reduction in time spent managing music collections and enhancing user satisfaction.
 
 - Music Amor (Vue, HTML, and JavaScript )| Sep 2022
-  
-   	- Developed a music streaming website using Vue.js, HTML, and JavaScript as a team project. The app allows users to search and listen to their favorite songs, create, and manage playlists.
- 
 
+	- Developed a music streaming website as part of a team project using Vue.js for front-end, allowing users to search and stream songs, manage playlists, and personalize their experience.
+ 	- Implemented features such as user authentication, accessibility options (e.g., high contrast mode), and playlist management to enhance usability.
+  	- Integrating REST APIs to ensure seamless interaction with backend services and improving data accessibility. Enhanced user experience through intuitive design and functionality.
+ 
+<!--
 - Conway's Game of Life:(C / _Course Assignment_)
 
 	- Independently created a zero-player game for the course assignment, in which the current state of the board completely determines each step.
 	- It is played on an infinite 2D grid of square cells. At any time, each cell is either populated or unpopulated.
 	- The project is based on the idea that a population requires a certain size to thrive, and can expand if they are large enough, but cannot become so dense that they overtax its local resources.
 
-
-## <center>Awards and Memberships</center>
+-->
+## **<center>Awards and Memberships</center>**
 
 - ICM Honour list (Fall 2020)
 - Dean's Honour list (Winter 2022)
