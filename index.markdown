@@ -55,10 +55,10 @@ layout: default
 
 # **<center> Publications </center>**
 
-- [Transportation Analytic Solution for Predicting Flight Cancellations](https://ieeexplore.ieee.org/document/10229353) | University of Manitoba | Aug 2023
+- [Transportation Analytic Solution for Predicting Flight Cancellations](https://ieeexplore.ieee.org/document/10229353) | U of M | Aug 2023
   - Built predictive models using regression analysis to determine the likelihood of flight cancellations based on weather data, including precipitation and wind speed.
  
-- [Social Network Analysis of Popular YouTube Videos via Vertical Quantitative Mining](https://ieeexplore.ieee.org/document/10068640) | University of Manitoba | Nov 2022
+- [Social Network Analysis of Popular YouTube Videos via Vertical Quantitative Mining](https://ieeexplore.ieee.org/document/10068640) |  U of M | Nov 2022
   - Enhanced algorithms for social network analysis, providing insights into patterns behind YouTube video popularity using quantitative mining techniques.
 
 # **<center>Projects</center>**
@@ -75,7 +75,7 @@ layout: default
   - Created a music management system with intuitive playlist creation and smart sorting options, simplifying the user experience and increasing engagement by 50%.
   - Implemented customizable themes, resulting in a 30% reduction in time spent managing music collections and enhancing user satisfaction.
 
-- Music Amor (Vue, HTML, and JavaScript )| Sep 2022
+- Music Amor (Vue, HTML, and JavaScript )| &nbsp;&nbsp;&nbsp;&nbsp;Sep 2022
   - Developed a music streaming website as part of a team project using Vue.js for front-end, allowing users to search and stream songs, manage playlists, and personalize their experience.
   - Implemented features such as user authentication, accessibility options (e.g., high contrast mode), and playlist management to enhance usability.
   - Integrating REST APIs to ensure seamless interaction with backend services and improving data accessibility. Enhanced user experience through intuitive design and functionality.
