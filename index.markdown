@@ -4,11 +4,11 @@
 
 layout: default
 ---
-# <center>**Sanskar Raval** </center>
+# **<center>Sanskar Raval </center>**
 
 ###  [ravals1@myumanitoba.ca](mailto:ravals1@myumanitoba.ca)| [GitHub](https://github.com/sanksarraval) | [Linkedin](https://www.linkedin.com/in/sanskar-raval) 
 
-## <center>**Experience**</center>
+## **<center>Experience</center>**
 
 ### Junior Web and Application Developer | Government of Manitoba| September 2023 - Present 
 
@@ -77,6 +77,7 @@ layout: default
  	- Implemented customizable themes, resulting in a 30% reduction in time spent managing music collections and enhancing user satisfaction.
 
 - Music Amor (Vue, HTML, and JavaScript )| Sep 2022
+  
    	- Developed a music streaming website using Vue.js, HTML, and JavaScript as a team project. The app allows users to search and listen to their favorite songs, create, and manage playlists.
  
 
