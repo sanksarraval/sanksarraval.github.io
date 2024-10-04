@@ -6,7 +6,7 @@ layout: default
 ---
 <!--# **<center>Sanskar Raval </center>**-->
 
-###  [ravals1@myumanitoba.ca](mailto:ravals1@myumanitoba.ca)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/sanksarraval) |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/sanskar-raval) 
+###  [ravals1@myumanitoba.ca](mailto:ravals1@myumanitoba.ca) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/sanksarraval) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/sanskar-raval) 
 
 # **<center>Experience</center>**
 
@@ -42,7 +42,7 @@ layout: default
 
 - Expected graduation: April 2025, GPA: 3.7
 
-## <center>Techical Skills</center>
+# <center>Techical Skills</center>
 
 -  **Languages and Databases**: Java, C, C++, C#, Python, SQL, JavaScript, Dart, R
 
