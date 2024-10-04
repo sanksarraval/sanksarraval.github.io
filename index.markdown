@@ -6,9 +6,9 @@ layout: default
 ---
 # **<center>Sanskar Raval </center>**
 
-###  [ravals1@myumanitoba.ca](mailto:ravals1@myumanitoba.ca)| [GitHub](https://github.com/sanksarraval) | [Linkedin](https://www.linkedin.com/in/sanskar-raval) 
+###  [ravals1@myumanitoba.ca](mailto:ravals1@myumanitoba.ca)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/sanksarraval) |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/sanskar-raval) 
 
-## **<center>Experience</center>**
+# **<center>Experience</center>**
 
 ### Junior Web and Application Developer | Government of Manitoba| September 2023 - Present 
 
@@ -32,7 +32,7 @@ layout: default
   - Worked at the customer service desk to help customers with their refunds and exchanges.
   - Elicited positive responses and reviews from customers.
 
-## **<center>Education </center>**
+# **<center>Education </center>**
 
   
 
@@ -53,7 +53,7 @@ layout: default
 -  **Data Science Tools**: Pandas, NumPy, scikit-learn, Jupyter, Matplotlib, Regression, Decision Trees, Clustering, SQL (MySQL, PostgreSQL), MSSQL, Neo4J. 
 
 
-## **<center> Publications </center>**
+# **<center> Publications </center>**
 
 - [Transportation Analytic Solution for Predicting Flight Cancellations](https://ieeexplore.ieee.org/document/10229353) | University of Manitoba | Aug 2023
   - Built predictive models using regression analysis to determine the likelihood of flight cancellations based on weather data, including precipitation and wind speed.
@@ -61,7 +61,7 @@ layout: default
 - [Social Network Analysis of Popular YouTube Videos via Vertical Quantitative Mining](https://ieeexplore.ieee.org/document/10068640) | University of Manitoba | Nov 2022
   - Enhanced algorithms for social network analysis, providing insights into patterns behind YouTube video popularity using quantitative mining techniques.
 
-## **<center>Projects</center>**
+# **<center>Projects</center>**
 
 - Discordn’t: Stateful Chat Server & Client Application (Python, TCP, SQLite)| Sep 2024
   -  Built a server capable of maintaining chat state across restarts, with custom protocols for thin clients and optimized message throughput.
@@ -88,7 +88,7 @@ layout: default
 	- The project is based on the idea that a population requires a certain size to thrive, and can expand if they are large enough, but cannot become so dense that they overtax its local resources.
 
 -->
-## **<center>Awards and Memberships</center>**
+# **<center>Awards and Memberships</center>**
 
 - ICM Honour list (Fall 2020)
 - Dean's Honour list (Winter 2022)
