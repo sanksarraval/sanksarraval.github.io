@@ -31,7 +31,7 @@ layout: default
   - Optimized Frequent Itemset Mining (FIM) algorithms, such as qEclat and MQA-M, resulting in a 30% improvement in processing time and generating more precise insights for data-driven decisions.
   - Developed data visualization tools using Python libraries (Pandas, NumPy, scikit-learn) to present findings and supported decision-making by providing actionable insights to the research team.
 
-### Cashier | Walmart Canada (May 2020 - Present)**
+### Cashier | Walmart Canada (May 2020 - Sep 2024)
 
   - Worked in a fast pace environment to assist customers with their transactions at the self-checkout.
   - Worked at the customer service desk to help customers with their refunds and exchanges.
@@ -68,7 +68,7 @@ layout: default
 
 # **<center>Projects</center>**
 
-### Decentralized Peer-to-Peer Consensus System | (Python,UDP) 
+### [Decentralized Peer-to-Peer Consensus System | (Python,UDP)](https://github.com/sanksarraval/Decentralized-Peer-to-Peer-Consensus-System) 
   - Developed a peer-to-peer blockchain synchronization system using Python sockets, enabling decentralized consensus through GOSSIP and STATS messages.
   - Designed and implemented fault-tolerant peer discovery and cleanup mechanisms, ensuring network stability by removing inactive peers dynamically.
   - Built a longest-chain consensus algorithm, validating blockchain integrity using hash difficulty constraints and peer voting mechanisms.
@@ -80,7 +80,7 @@ layout: default
   - Developed a lightweight, stateless client for efficient server communication.
   - Designed a custom communication protocol to facilitate message delivery without relying on HTTP, allowing the server to manage and store messages.
 
-### BookStore Web App| C#, .NET Core MVC, and MSSQL 
+### [BookStore Web App| C#, .NET Core MVC, and MSSQL](https://github.com/sanksarraval/BookStore-WebApp) 
   - Developed a web app for managing bookstore operations, including inventory management and user interfaces. Focused on creating a user-friendly experience while ensuring the system was scalable and maintainable.
   - Implemented role-based access control to secure user permissions, ensuring admin and customer-level features were appropriately restricted, boosting security by 25%.
 
